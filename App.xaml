@@ -1,0 +1,24 @@
+﻿<Application x:Class="Timer2.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Timer2"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <Geometry x:Key="Normalize">
+            M100,100 L86.55,100 M87,100 L87,87 M86.55,87 L100.45,87 M100,87 L100,100.45
+                  M89,87 L89,84 M88.55,84 L103.45,84 M103,84.2 L103,98.43 M102.7,98 L100,98
+        </Geometry>
+
+        <Geometry x:Key="Minimize">
+            M 0,0 L 40,0
+        </Geometry>
+
+        <Geometry x:Key="Maximize">
+            M 0,0 L -80,0 -80,-80 0,-80 0,0.5
+        </Geometry>
+
+        <Geometry x:Key="Close">
+            M0,0 L40,40 M40,40 L20,20 L40,0 M40,0 L0,40
+        </Geometry>
+    </Application.Resources>
+</Application>
