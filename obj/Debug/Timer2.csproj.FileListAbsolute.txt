@@ -1,0 +1,16 @@
+D:\VS\Timer2\bin\Debug\Timer2.exe.config
+D:\VS\Timer2\bin\Debug\Timer2.exe
+D:\VS\Timer2\bin\Debug\Timer2.pdb
+D:\VS\Timer2\obj\Debug\MainWindow.g.cs
+D:\VS\Timer2\obj\Debug\App.g.cs
+D:\VS\Timer2\obj\Debug\Timer2_MarkupCompile.cache
+D:\VS\Timer2\obj\Debug\Timer2_MarkupCompile.lref
+D:\VS\Timer2\obj\Debug\MainWindow.baml
+D:\VS\Timer2\obj\Debug\Timer2.g.resources
+D:\VS\Timer2\obj\Debug\Timer2.Properties.Resources.resources
+D:\VS\Timer2\obj\Debug\Timer2.csproj.GenerateResource.cache
+D:\VS\Timer2\obj\Debug\Timer2.csproj.CoreCompileInputs.cache
+D:\VS\Timer2\obj\Debug\Timer2.exe
+D:\VS\Timer2\obj\Debug\Timer2.pdb
+D:\VS\Timer2\obj\Debug\App.baml
+D:\VS\Timer2\obj\Debug\Timer2.csproj.AssemblyReference.cache
